@@ -1,16 +1,19 @@
-## Hi there 👋
+🚀 AI-Assisted Product Builder | Transparency & Efficiency
 
-<!--
-**emin563/emin563** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I focus on building functional software by orchestrating advanced AI agents. My strength lies in bridging the gap between concepts and reality through AI-driven development, focusing on open-source tools and offline-first applications. I believe in total transparency regarding my workflow and current learning path.
 
-Here are some ideas to get you started:
+The Workflow: I leverage AI (Cursor, LLMs) to architect, code, and debug, acting as the product lead and system integrator.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Guiding Principle: "Building useful tools while learning in public."
+
+📊 Learning Progress
+Python: 10% (Fundamentals & Logic)
+
+TypeScript: 2% (Syntax & Basic Structure)
+
+AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
+
+🛠 Tech Stack (Built & Managed with AI)
+React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase.
+
+📬 emingunay1221@gmail.com | 📍 Isparta, Turkey
