@@ -7,11 +7,12 @@ The Workflow: I leverage AI (Cursor, LLMs) to architect, code, and debug, acting
 Guiding Principle: "Building useful tools while learning in public."
 
 📊 Learning Progress
-Python: 10% (Fundamentals & Logic)
 
-TypeScript: 2% (Syntax & Basic Structure)
+ 🐍 Python: 10% (Fundamentals & Logic)
 
-AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
+🟦TS TypeScript: 2% (Syntax & Basic Structure)
+
+🤖AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
 
 🛠 Tech Stack (Built & Managed with AI)
 React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase.
