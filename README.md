@@ -7,7 +7,9 @@ The Workflow: I leverage AI (Cursor, LLMs) to architect, code, and debug, acting
 Guiding Principle: "Building useful tools while learning in public."
 
 --------------------------------------------------------------------------------------------------------------------------------
+
 📊 Learning Progress
+
 
 
 🐍 Python: 10% (Fundamentals & Logic)
@@ -17,13 +19,17 @@ Guiding Principle: "Building useful tools while learning in public."
 🤖AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
 
 --------------------------------------------------------------------------------------------------------------------------------
-🛠 Tech Stack (Built & Managed with AI) React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase.
+
+🛠 Tech Stack : (Built & Managed with AI) React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase , supabase
+
+-------------------------------------------------------------------------------------------------------------------------------🔧🤖AI-Powered Development Tools: Cursor AI and Google Antigravity
 
 --------------------------------------------------------------------------------------------------------------------------------
 
 📬 emingunay1221@gmail.com | 📍 Isparta, Turkey
 
 --------------------------------------------------------------------------------------------------------------------------------
-PROJECTS
+
+📂PROJECTS
 
 MyOwnSafe:https://play.google.com/store/apps/details?id=com.gundogdu.myownsafe&hl=en
