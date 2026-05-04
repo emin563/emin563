@@ -22,7 +22,9 @@ Guiding Principle: "Building useful tools while learning in public."
 
 🛠 Tech Stack : (Built & Managed with AI) React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase , supabase
 
--------------------------------------------------------------------------------------------------------------------------------🔧🤖AI-Powered Development Tools: Cursor AI and Google Antigravity
+-------------------------------------------------------------------------------------------------------------------------------
+
+🔧🤖AI-Powered Development Tools: Cursor AI and Google Antigravity
 
 --------------------------------------------------------------------------------------------------------------------------------
 
