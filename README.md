@@ -1,6 +1,6 @@
 🚀 AI-Assisted Product Builder | Transparency & Efficiency
 
-I focus on building functional software by orchestrating advanced AI agents. My strength lies in bridging the gap between concepts and reality through AI-driven development, focusing on open-source tools and offline-first applications. I believe in total transparency regarding my workflow and current learning path.
+I focus on building functional software by orchestrating advanced AI agents.My strength lies in reducing the time-to-market by bridging the gap, focusing on open-source tools and offline-first applications. I believe in total transparency regarding my workflow and current learning path.
 
 The Workflow: I leverage AI (Cursor, LLMs) to architect, code, and debug, acting as the product lead and system integrator.
 
@@ -18,3 +18,6 @@ Guiding Principle: "Building useful tools while learning in public."
 React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase.
 
 📬 emingunay1221@gmail.com | 📍 Isparta, Turkey
+
+PROJECTS
+MyOwnSafe:https://play.google.com/store/apps/details?id=com.gundogdu.myownsafe&hl=en
