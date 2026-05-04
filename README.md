@@ -20,4 +20,5 @@ React Native (Expo), Next.js, Node.js, SQLite , Git , Firebase.
 📬 emingunay1221@gmail.com | 📍 Isparta, Turkey
 
 PROJECTS
+
 MyOwnSafe:https://play.google.com/store/apps/details?id=com.gundogdu.myownsafe&hl=en
