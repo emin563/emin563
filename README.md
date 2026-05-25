@@ -16,7 +16,7 @@ Guiding Principle: "Building useful tools while learning in public."
 
 🟦TS TypeScript: (Syntax & Basic Structure)
 
-🤖AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
+🤖AI Orchestration: (Advanced Prompting & Agentic Workflows)
 
 --------------------------------------------------------------------------------------------------------------------------------
 
