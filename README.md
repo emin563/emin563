@@ -12,9 +12,9 @@ Guiding Principle: "Building useful tools while learning in public."
 
 
 
-🐍 Python: 10% (Fundamentals & Logic)
+🐍 Python:  (Fundamentals & Logic)
 
-🟦TS TypeScript: 2% (Syntax & Basic Structure)
+🟦TS TypeScript: (Syntax & Basic Structure)
 
 🤖AI Orchestration: 85% (Advanced Prompting & Agentic Workflows)
 
